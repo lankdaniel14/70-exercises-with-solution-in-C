@@ -1,0 +1,143 @@
+Sure, here's a reformatted list of C programming tasks without the "Click me to see the solution" part:
+
+1. Print your name, date of birth, and mobile number.
+
+2. Get the C version you are using.
+
+3. Print a block F using the hash (#), with a height of six characters and width of five and four characters. Also, print a very large 'C'.
+
+4. Print the following characters in reverse: 'X', 'M', 'L'.
+
+5. Compute the perimeter and area of a rectangle with a height of 7 inches and width of 5 inches.
+
+6. Compute the perimeter and area of a circle with a given radius.
+
+7. Display multiple variables such as a + c, x + c, dx + x, etc., with given declarations.
+
+8. Convert specified days into years, weeks, and days (ignoring leap year).
+
+9. Accept two integers from the user and calculate their sum.
+
+10. Accept two integers from the user and calculate their product.
+
+11. Calculate the average value of two items' weight and number of purchases.
+
+12. Calculate the salary of an employee based on ID, worked hours, and salary per hour.
+
+13. Accept three integers and find the maximum.
+
+14. Calculate a bike’s average consumption based on distance travelled and fuel spent.
+
+15. Calculate the distance between two points.
+
+16. Break an amount into the smallest number of bank notes.
+
+17. Convert a given integer (in seconds) to hours, minutes, and seconds.
+
+18. Convert a given integer (in days) to years, months, and days, assuming all months have 30 days and all years have 365 days.
+
+19. Check given integers p, q, r, s under certain conditions and print if the values are correct or wrong.
+
+20. Calculate the roots of Bhaskara’s formula from three given numbers, and display a message if roots cannot be found.
+
+21. Check the specified range of a given integer and print an error message if the number is negative or greater than 80.
+
+22. Read 5 numbers and sum all odd values between them.
+
+23. Check if it is possible to make a triangle with three given floating-point values and determine its perimeter.
+
+24. Check whether two integers are multiplied.
+
+25. Read an integer between 1 and 12 and print the month of the year in English.
+
+26. Print all even numbers between 1 and 50 (inclusive).
+
+27. Read 5 numbers and count the number of positive and negative numbers.
+
+28. Read 5 numbers, count the number of positive numbers, and calculate the average of all positive values.
+
+29. Read 5 numbers and sum all odd values between them.
+
+30. Find and print the square of all even values from 1 to a specified value.
+
+31. Check whether a given integer is positive even, negative even, positive odd, or negative odd. Print even if the number is 0.
+
+32. Print all numbers between 1 and 100 which are divided by a specified number and the remainder is 3.
+
+33. Accept some integers from the user, find the highest value and its input position.
+
+34. Compute the sum of consecutive odd numbers from a given pair of integers.
+
+35. Check if two numbers in a pair are in ascending or descending order.
+
+36. Read a password until it is valid and print appropriate messages for correct or incorrect passwords.
+
+37. Read coordinates (x, y) and find the quadrant to which it belongs.
+
+38. Read two numbers and divide the first number by the second, print a message if division is not possible.
+
+39. Calculate the sum of all numbers not divisible by 17 between two given integers.
+
+40. Find all integer numbers that divide by 7 and have a remainder of 2 or 3 between two given integers.
+
+41. Print 3 numbers on a line, starting with 1 and printing n lines. Accept the number of lines (n, integer) from the user.
+
+42. Print a number, its square, and cube, starting with 1 and printing n lines. Accept the number of lines (n, integer) from the user.
+
+43. Read two integers p and q, print p number of lines in a sequence of 1 to b in a line.
+
+44. Calculate the average mathematics marks of some students. Input 0 or a negative value to terminate the input process.
+
+45. Calculate the value of S where S = 1 + 1/2 + 1/3 + … + 1/50.
+
+46. Calculate the value of S where S = 1 + 3/2 + 5/4 + 7/8.
+
+47. Find all the divisors of an integer.
+
+48. Read and print the elements of an array of length 7. Replace every negative number or zero with 100.
+
+49. Read and print the elements of an array with length 7. Insert the triple of the previous position, starting from the second position.
+
+
+
+50. Read an array of length 5 and print the position and value of elements less than 5.
+
+51. Read an array of length 6, change the first element by the last, the second by the fifth, and the third by the fourth. Print the modified array.
+
+52. Read an array of length 6 and find the smallest element and its position.
+
+53. Accept the principle, rate of interest, and time and calculate simple interest.
+
+54. Accept a distance in centimeters and print the corresponding value in inches.
+
+55. Swap two numbers without using a third variable.
+
+56. Shift given data by two bits to the left.
+
+57. Reverse and print a given number.
+
+58. Accept 4 real numbers and print out the difference between the maximum and minimum values.
+
+59. Display the sum of series 1 + 1/2 + 1/3 + … + 1/n.
+
+60. Create enumerated data types for 7 days and display their values in integer constants.
+
+61. Accept a real number x and print out the corresponding value of sin(1/x) using 4-decimal places.
+
+62. Accept a positive integer less than 500 and print out the sum of its digits.
+
+63. Accept a positive integer n less than 100 and print the sum of a specific series.
+
+64. Accept integers until a zero or negative number is entered and display the count, minimum, maximum, and average of positive values.
+
+65. Print out the prime numbers between 1 and 200, with each row containing a maximum of 20 prime numbers.
+
+66. Generate 50 random numbers between -0.5 and 0.5 and write them to the file rand.dat.
+
+67. Evaluate the equation y=x^n when n is a non-negative integer.
+
+68. Print the powers of 2 table for the powers 0 to 10, both positive and negative.
+
+69. Print a binomial coefficient table.
+
+70. Print the alphabet set in decimal and character form.
